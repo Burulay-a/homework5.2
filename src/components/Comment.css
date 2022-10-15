@@ -1,0 +1,25 @@
+.UserInfo img {
+  border-radius: 50%;
+  width: 100px;
+  height: 90px;
+}
+
+.Comment {
+  background-color: aqua;
+}
+
+/* .Comment-second {
+  background-color: bisque;
+} */
+
+.comment-first {
+  background-color: bisque;
+}
+
+.comment-second {
+  background-color: pink;
+}
+.commentTop {
+  display: flex;
+  justify-content: space-around;
+}
